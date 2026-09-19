@@ -1,2 +1,0 @@
-User-agent: *
-Disallow: /vc-control-7f4k2.html
